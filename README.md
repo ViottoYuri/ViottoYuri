@@ -62,8 +62,16 @@ Atualmente estou aprimorando meus conhecimentos em **Java, Spring Boot, JavaScri
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViottoYuri&theme=github_dark">
 
+<br>
+
+<div align="center">
+
+<h3>🕷️ Com grandes tecnologias vêm grandes responsabilidades! 🕷️</h3>
+
+<br>
+
+🕸️
+
 </div>
 
-### 🕷️ `Com grandes tecnologias vem grandes responsabilidades!`
-
-</div>
+<br>
