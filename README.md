@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="LINK_DIRETO_DO_GIF" width="120">
+<img src="https://media1.tenor.com/m/yYFAscNzHGkAAAAd/marvel-spider-man.gif" width="120">
 
 # 🕷️ YURI VIOTO ALVES
 
