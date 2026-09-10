@@ -1,10 +1,10 @@
 <div align="center">
 
+<img src="LINK_DIRETO_DO_GIF" width="120">
+
 # 🕷️ YURI VIOTO ALVES
 
-### `Desenvolvedor | Estudante de ADS | Java & Web`
-
-<img src="https://media1.tenor.com/m/J-RUH86zpWcAAAAC/dodging-spider-man.gif" width="400">
+### `Desenvolvedor | Estudante de Ciências da Computação | Java & Web`
 
 </div>
 
