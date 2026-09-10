@@ -4,7 +4,7 @@
 
 ### `Desenvolvedor | Estudante de ADS | Java & Web`
 
-<img src="https://media1.tenor.com/m/SEU-GIF-AQUI/AAA.gif" width="400">
+<img src="https://media1.tenor.com/m/J-RUH86zpWcAAAAC/dodging-spider-man.gif" width="400">
 
 </div>
 
@@ -16,10 +16,10 @@ Olá! Eu sou **Yuri Vioto Alves**, estudante de **Análise e Desenvolvimento de 
 
 Atualmente estou aprimorando meus conhecimentos em **Java, Spring Boot, JavaScript, React e SQL**, desenvolvendo projetos acadêmicos e pessoais.
 
-💻 Focado em desenvolvimento de software
-☕ Java & Spring Boot
-⚛️ React & JavaScript
-🗄️ Banco de Dados & SQL
+💻 Focado em desenvolvimento de software  
+☕ Java & Spring Boot  
+⚛️ React & JavaScript  
+🗄️ Banco de Dados & SQL  
 🕷️ Sempre aprendendo algo novo
 
 ---
