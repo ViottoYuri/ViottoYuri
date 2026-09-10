@@ -12,7 +12,7 @@
 
 ## 🕸️ Sobre mim
 
-Olá! Eu sou **Yuri Vioto Alves**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia e desenvolvimento de software.
+Olá! Eu sou **Yuri Vioto Alves**, estudante de **Ciências da Computação** e apaixonado por tecnologia e desenvolvimento de software.
 
 Atualmente estou aprimorando meus conhecimentos em **Java, Spring Boot, JavaScript, React e SQL**, desenvolvendo projetos acadêmicos e pessoais.
 
