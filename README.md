@@ -34,18 +34,6 @@ Atualmente estou aprimorando meus conhecimentos em **Java, Spring Boot, JavaScri
 
 ---
 
-## 🕸️ Projeto em destaque
-
-### ⚖️ JuriGroscon
-
-Sistema desenvolvido para **organização e gerenciamento de processos jurídicos**, centralizando informações e facilitando a visualização e acompanhamento dos processos.
-
-**Tecnologias utilizadas:**
-
-`Java` `Spring Boot` `React` `JavaScript` `SQL`
-
----
-
 ## 🕷️ Conecte-se comigo
 
 <div align="center">
@@ -56,10 +44,6 @@ Sistema desenvolvido para **organização e gerenciamento de processos jurídico
 
 <a href="mailto:yurialvs556@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ViottoYuri">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -80,6 +64,6 @@ Sistema desenvolvido para **organização e gerenciamento de processos jurídico
 
 </div>
 
-### 🕷️ `Anyone can wear the mask.`
+### 🕷️ `Com grandes tecnologias vem grandes responsabilidades!`
 
 </div>
