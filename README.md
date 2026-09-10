@@ -70,12 +70,15 @@ Sistema desenvolvido para **organização e gerenciamento de processos jurídico
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViottoYuri&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=8B0000"/>
+<a href="https://github.com/ViottoYuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViottoYuri&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=8B0000"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViottoYuri&layout=compact&langs_count=8&theme=dark&border_color=8B0000"/>
+<a href="https://github.com/ViottoYuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViottoYuri&layout=compact&langs_count=8&theme=dark&border_color=8B0000"/>
+</a>
 
 </div>
-
 ---
 
 <div align="center">
