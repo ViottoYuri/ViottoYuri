@@ -4,7 +4,7 @@
 
 ### `Desenvolvedor | Estudante de ADS | Java & Web`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:1E3A8A&height=180&section=header&text=WITH%20GREAT%20POWER...&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=COMES%20GREAT%20RESPONSIBILITY&descAlignY=55&descSize=16"/>
+<img src="https://media1.tenor.com/m/SEU-GIF-AQUI/AAA.gif" width="400">
 
 </div>
 
@@ -81,7 +81,5 @@ Sistema desenvolvido para **organização e gerenciamento de processos jurídico
 <div align="center">
 
 ### 🕷️ `Anyone can wear the mask.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:8B0000,100:050505&height=100&section=footer"/>
 
 </div>
