@@ -1,16 +1,87 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ViottoYuri/ViottoYuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🕷️ YURI VIOTO ALVES
 
-Here are some ideas to get you started:
+### `Desenvolvedor | Estudante de ADS | Java & Web`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:1E3A8A&height=180&section=header&text=WITH%20GREAT%20POWER...&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=COMES%20GREAT%20RESPONSIBILITY&descAlignY=55&descSize=16"/>
+
+</div>
+
+---
+
+## 🕸️ Sobre mim
+
+Olá! Eu sou **Yuri Vioto Alves**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia e desenvolvimento de software.
+
+Atualmente estou aprimorando meus conhecimentos em **Java, Spring Boot, JavaScript, React e SQL**, desenvolvendo projetos acadêmicos e pessoais.
+
+💻 Focado em desenvolvimento de software
+☕ Java & Spring Boot
+⚛️ React & JavaScript
+🗄️ Banco de Dados & SQL
+🕷️ Sempre aprendendo algo novo
+
+---
+
+## 🕷️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,sql,mysql,git,github,vscode,idea" />
+
+</div>
+
+---
+
+## 🕸️ Projeto em destaque
+
+### ⚖️ JuriGroscon
+
+Sistema desenvolvido para **organização e gerenciamento de processos jurídicos**, centralizando informações e facilitando a visualização e acompanhamento dos processos.
+
+**Tecnologias utilizadas:**
+
+`Java` `Spring Boot` `React` `JavaScript` `SQL`
+
+---
+
+## 🕷️ Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yuri-vioto-alves-722098179/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yurialvs556@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ViottoYuri">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🕸️ GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViottoYuri&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=8B0000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViottoYuri&layout=compact&langs_count=8&theme=dark&border_color=8B0000"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🕷️ `Anyone can wear the mask.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:8B0000,100:050505&height=100&section=footer"/>
+
+</div>
