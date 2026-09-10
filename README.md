@@ -66,22 +66,19 @@ Sistema desenvolvido para **organização e gerenciamento de processos jurídico
 
 ---
 
-## 🕸️ GitHub Stats
+## 🕷️ GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/ViottoYuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViottoYuri&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=8B0000"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViottoYuri&theme=github_dark" width="95%">
 
-<a href="https://github.com/ViottoYuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViottoYuri&layout=compact&langs_count=8&theme=dark&border_color=8B0000"/>
-</a>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViottoYuri&theme=github_dark">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViottoYuri&theme=github_dark">
 
 </div>
----
-
-<div align="center">
 
 ### 🕷️ `Anyone can wear the mask.`
 
